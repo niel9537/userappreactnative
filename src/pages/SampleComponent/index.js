@@ -1,6 +1,6 @@
 import React from 'react';
 import {Text, View, Image, TextInput, StyleSheet, ScrollView} from 'react-native';
-import mac from './mackbookpro.jpg'
+import mac from '../../assets/image/mackbookpro.jpg'
 
 
 export const SampleComponent = () => {
@@ -11,7 +11,7 @@ export const SampleComponent = () => {
         <Text style={{fontSize: 12, fontWeight: 'bold', marginTop: 14, color: '#F2994A'}}>Rp 17.999.999</Text>
         <Text style={{fontSize: 12, fontWeight: 'bold', marginTop: 12}}>Jakarta Utara</Text>
         <View style={{backgroundColor: '#6FCF97', borderRadius: 10, paddingVertical: 6, marginTop: 20}}>
-          <Text style={{fontSize: 14, fontWeight: '300',color: 'white', textAlign: 'center'}}>Beli</Text>
+        <Text style={{fontSize: 14, fontWeight: '300',color: 'white', textAlign: 'center'}}>Beli</Text>
         </View>
       </View>
     )

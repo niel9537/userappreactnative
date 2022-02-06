@@ -1,12 +1,10 @@
 import React, {Component} from 'react';
 import {Text, View, Image, TextInput, StyleSheet, ScrollView} from 'react-native';
-import macbook from './mackbookpro.jpg';
-import SampleComponent from './SampleComponent';
 //Functional component App
 
 
 //Component untuk styling
-const StylingReactNativeComponent = () => {
+const StylingComponent = () => {
   return (
     <View>
       <Text style={styles.text}>Styling Component</Text>
@@ -65,4 +63,4 @@ class Profile extends Component{
     )
   }
 }
-export default StylingReactNativeComponent;
+export default StylingComponent;

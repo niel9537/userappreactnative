@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "17.0.2",
-    "react-native": "0.67.2"
+    "react-native": "0.67.2",
+    "react-native-svg": "^9.13.6",
+    "react-native-svg-transformer": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
@@ -25,5 +27,17 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/niel9537/userappreactnative.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niel9537/userappreactnative/issues"
+  },
+  "homepage": "https://github.com/niel9537/userappreactnative#readme",
+  "description": ""
 }

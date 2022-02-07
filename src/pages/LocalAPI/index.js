@@ -4,7 +4,7 @@ import mac from '../../assets/image/mackbookpro.jpg'
 import { useState } from 'react';
 import axios from 'axios';
 
-
+//tes
 const Item = ({nama,email,bidang,onPress,onDelete}) => {
     return(
         <View>

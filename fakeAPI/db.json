@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Otniel",
+      "email": "niel.zebua8@gmail.com",
+      "bidang": "IT"
+    },
+    {
+      "nama": "Dian",
+      "email": "dian@gmail.com",
+      "bidang": "TI",
+      "id": 4
+    },
+    {
+      "nama": "Juju",
+      "email": "juju@gmail.com",
+      "bidang": "TI",
+      "id": 5
+    },
+    {
+      "nama": "Agi",
+      "email": "agi@gmail.com",
+      "bidang": "IT",
+      "id": 6
+    }
+  ]
+}
